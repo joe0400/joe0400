@@ -15,4 +15,4 @@ Senior pursuing Bachelor of Science in Computer Science at the University of Mas
 #### Contact Info
 [My Github Profile](https://github.com/joe0400)\
 [joseph_scannell@student.uml.edu](mailto:joseph_scannell@student.uml.edu)\
-(774)-462-9492
+
